@@ -51,7 +51,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
